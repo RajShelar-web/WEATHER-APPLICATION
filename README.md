@@ -62,3 +62,8 @@ DOM manipulation
 Responsive UI using CSS Flexbox
 
 Git & GitHub for version control
+
+#OUTPUT 
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9b642317-415a-47b8-8b96-d730b0feecea" />
+
